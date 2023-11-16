@@ -1,6 +1,6 @@
 {
-  "name": "git-dawn",
-  "version": "1.0.1",
+  "name": "git-scaffold",
+  "version": "1.0.0",
   "description": "Create a new project from a git starter",
   "main": "index.js",
   "bin": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KyleAMathews/git-dawn.git"
+    "url": "git+https://github.com/KyleAMathews/git-scaffold.git"
   },
   "keywords": [
     "starter",
@@ -18,9 +18,9 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KyleAMathews/git-dawn/issues"
+    "url": "https://github.com/KyleAMathews/git-scaffold/issues"
   },
-  "homepage": "https://github.com/KyleAMathews/git-dawn#readme",
+  "homepage": "https://github.com/KyleAMathews/git-scaffold#readme",
   "dependencies": {
     "degit": "^2.8.4"
   }

@@ -1,4 +1,4 @@
-# git-dawn
+# git-scaffold
 Create a new project from a git starter
 
 `npx git-scaffold myrepo/name my-new-app-directory`
