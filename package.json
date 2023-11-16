@@ -1,6 +1,6 @@
 {
   "name": "git-dawn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a new project from a git starter",
   "main": "index.js",
   "bin": "index.js",
