@@ -23,9 +23,9 @@ async function spawnProcess(command, args) {
 }
 
 const emitter = degit(gitRepo, {
-  cache: true,
-  force: true,
-  verbose: true,
+  // cache: true,
+  // force: true,
+  // verbose: true,
 });
 
 emitter.on("info", (info) => {
